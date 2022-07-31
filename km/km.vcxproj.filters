@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="entry.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="definitions.h" />
+    <ClInclude Include="utils.h" />
+    <ClInclude Include="crt.h" />
+    <ClInclude Include="interface.h" />
+    <ClInclude Include="encrypt.h" />
+    <ClInclude Include="cache.h" />
+    <ClInclude Include="cleaning.h" />
+    <ClInclude Include="ia32.h" />
+    <ClInclude Include="imports.h" />
+  </ItemGroup>
+</Project>
